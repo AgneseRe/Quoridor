@@ -1,5 +1,5 @@
 # Quoridor
-Implementation of the Quoridor game on the ***LandTiger*** board.
+Implementation of the Quoridor game on the ***LandTiger*** NXP LPC1768 development board.
 
 A ***7x7 wooden board***, two tokens and 8 walls each. The various features of the classic game are managed, such as the movement of the players along the four directions, the positioning of the walls, the control that none of the players remain trapped due to the positioning of the same... 
 
